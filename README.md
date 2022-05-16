@@ -12,6 +12,8 @@ This project is to analyze the bike sharing business in NYC. We are looking at t
 The purpose of the analysis is to understand the composition of the customer, and their behavior related to the bike sharing business, the popularity in the potential city and potential repair and maintenance cost, so that we can determine whether the bike sharing business in Des Moines is a solid business proposal.
 
 ## Results
+[link to whole story](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/NYCCitiBikeAnalysis?:iid=9)
+
 ### Overview of the bike sharing audience
 [link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/Customer?:iid=6)
 <br> As showcased in the visulizations above, there're total 2,344,224 customers experienced the bike sharing business, with 81% of the rides are by subscribers and 65% of the rides were from Male users.
