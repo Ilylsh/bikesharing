@@ -15,26 +15,26 @@ The purpose of the analysis is to understand the composition of the customer, an
 [link to whole story](https://public.tableau.com/shared/JM3R83PQ8?:display_count=n&:origin=viz_share_link)
 
 ### Overview of the bike sharing audience
-[link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/Customer?:iid=6)
+[link to dashboard](https://public.tableau.com/views/NYC_Citi_Bikes_16527401066240/Customer?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br> As showcased in the visulizations above, there're total 2,344,224 customers experienced the bike sharing business, with 81% of the rides are by subscribers and 65% of the rides were from Male users.
 
 ### Checkout Time by Gender
-[link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/Checkouttime?:iid=3)
+[link to dashboard](https://public.tableau.com/views/NYC_Citi_Bikes_16527401066240/Checkouttime?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>Most of the rides are within 5-6mins and descrease quickly after 6mins. No rides exceed 60mins. Again, Male riders account for the most rides.
 
 ### Rides by Weekday for Each Hour and Each Gender
-[link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/WeekdayTrips?:iid=4)
+[link to dashboard](https://public.tableau.com/views/NYC_Citi_Bikes_16527401066240/WeekdayTrips?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>More rides happen during the weekday than weekend. Among weekday, the peak time that the rides would happen is during rush hours, such as 7-9am or 5-7pm. During Weekend, more rides tend to happen in the afternoon than in the morning. Obviously Male and subscribers account for most of the rides. 
 <br>From the graph below, we can also tell the fact that most of the rides happened during 7-9am and 5-7pm in August 2019.
 
-[link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/AugustPeakHours)
+[link to dashboard](https://public.tableau.com/views/NYC_Citi_Bikes_16527401066240/AugustPeakHours?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Popular Rides Location
-[link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/PopularLocation?:iid=6)
+[link to dashboard](https://public.tableau.com/shared/448QXTBMM?:display_count=n&:origin=viz_share_link)
 <br> The top starting and ending locations are all located in Manhattan of NYC, especially Lower Manhattan.
 
 ### Repair and Utilization
-[link to dashboard](https://10az.online.tableau.com/#/site/ilylsh/views/NYC_Citi_Bikes/BikeRepairsUtilizations?:iid=7)
+[link to dashboard](https://public.tableau.com/shared/44T7Y924J?:display_count=n&:origin=viz_share_link)
 <br>This is the reference info regarding the Bike ID which have got the most rides and the most trip duration time. We can further determine the threshold by which we should put the bikes into maintenance for longer utilization.
 
 ## Summary
